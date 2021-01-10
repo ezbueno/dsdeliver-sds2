@@ -7,9 +7,13 @@ Você pode ver este aplicativo funcionando em tempo real aqui:: https://sds2-eza
 
 Tecnologias utilizadas:
 Back-end
+
 Java
+
 Spring Boot
+
 JPA / Hibernate
+
 Maven
 
 
@@ -17,6 +21,9 @@ Front-end
 HTML / CSS / JS / TypeScript / ReactJS
 
 Deploy em produção
+
 Back-end: Heroku
+
 Front-end web: Netlify
+
 Database: Postgresql
