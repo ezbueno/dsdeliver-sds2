@@ -20,12 +20,12 @@ Back-end
 
 Front-end
 
-- HTML / CSS / JS / TypeScript / ReactJS
+- ReactJS / TypeScript
 
-Deploy em produção
+Implantação em produção
 
 - Back-end: Heroku
 
-- Front-end web: Netlify
+- Front-end: Netlify
 
 - Database: Postgresql
